@@ -1,6 +1,6 @@
 # TubeDownload
 
-<img crs="preview.jpg">
+<img src="preview.jpg">
 
 <hr>
 <b>pip install -r requirements.txt </b>
